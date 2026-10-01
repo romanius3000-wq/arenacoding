@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ],
+          "name": "mcadvanced:titanite_block",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mcadvanced:blocks/titanite_block",
+  "type": "minecraft:block"
+}

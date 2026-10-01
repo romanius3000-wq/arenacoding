@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "G": "mcadvanced:adurite"
+  },
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:adurite_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

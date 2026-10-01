@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "B": "minecraft:bone",
+    "G": "mcadvanced:shroomite",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GSG",
+    "SBS",
+    "GSG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:summon_spore_mother"
+  },
+  "type": "minecraft:crafting_shaped"
+}

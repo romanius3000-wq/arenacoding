@@ -1,0 +1,20 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ],
+          "name": "mcadvanced:glacite_block",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mcadvanced:blocks/glacite_block",
+  "type": "minecraft:block"
+}

@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "mcadvanced:infernite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcadvanced:infernite"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

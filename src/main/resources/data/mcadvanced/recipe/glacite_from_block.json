@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "mcadvanced:glacite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcadvanced:glacite"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

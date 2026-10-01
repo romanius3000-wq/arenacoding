@@ -1,0 +1,16 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:glacite"
+  },
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:glacite_leggings"
+  },
+  "type": "minecraft:crafting_shaped"
+}

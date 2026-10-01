@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "B": "minecraft:bone",
+    "G": "mcadvanced:sunstone",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GSG",
+    "SBS",
+    "GSG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:summon_pharaoh"
+  },
+  "type": "minecraft:crafting_shaped"
+}

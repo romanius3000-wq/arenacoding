@@ -1,0 +1,18 @@
+{
+  "category": "misc",
+  "key": {
+    "B": "minecraft:bone",
+    "G": "mcadvanced:jade",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GSG",
+    "SBS",
+    "GSG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:summon_vine_serpent"
+  },
+  "type": "minecraft:crafting_shaped"
+}

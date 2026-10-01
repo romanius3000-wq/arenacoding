@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1.0,
+    "id": "mcadvanced:infernite_axe"
+  },
+  "max_uses": 3.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 20.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 25.0
+}

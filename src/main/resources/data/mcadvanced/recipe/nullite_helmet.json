@@ -1,0 +1,15 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:nullite"
+  },
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:nullite_helmet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

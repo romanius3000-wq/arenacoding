@@ -1,0 +1,11 @@
+{
+  "generator": {
+    "biome_source": {
+      "biome": "mcadvanced:savanna_expanse",
+      "type": "minecraft:fixed"
+    },
+    "settings": "minecraft:overworld",
+    "type": "minecraft:noise"
+  },
+  "type": "minecraft:overworld"
+}

@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "mcadvanced:adurite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcadvanced:adurite"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

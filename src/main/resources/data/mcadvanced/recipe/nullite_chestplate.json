@@ -1,0 +1,16 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:nullite"
+  },
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:nullite_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

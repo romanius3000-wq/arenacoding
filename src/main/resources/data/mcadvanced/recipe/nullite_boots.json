@@ -1,0 +1,15 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:nullite"
+  },
+  "pattern": [
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:nullite_boots"
+  },
+  "type": "minecraft:crafting_shaped"
+}

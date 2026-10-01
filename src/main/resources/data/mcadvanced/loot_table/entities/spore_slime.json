@@ -1,0 +1,53 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.4,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcadvanced:shroomite",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.6,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "functions": [
+            {
+              "count": {
+                "max": 3,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:slime_ball",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "minecraft:entity"
+}

@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1.0,
+    "id": "mcadvanced:adurite_chestplate"
+  },
+  "max_uses": 4.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 9.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10.0
+}

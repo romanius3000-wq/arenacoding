@@ -1,0 +1,17 @@
+{
+  "category": "building",
+  "key": {
+    "D": "minecraft:diamond",
+    "S": "minecraft:stone_bricks"
+  },
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:boss_altar"
+  },
+  "type": "minecraft:crafting_shaped"
+}

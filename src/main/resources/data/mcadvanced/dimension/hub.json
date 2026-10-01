@@ -1,0 +1,7 @@
+{
+  "generator": {
+    "biome": "mcadvanced:hub",
+    "type": "mcadvanced:hub_room"
+  },
+  "type": "minecraft:overworld"
+}

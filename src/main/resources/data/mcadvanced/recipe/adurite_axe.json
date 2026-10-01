@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:adurite",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GG ",
+    "GS ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:adurite_axe"
+  },
+  "type": "minecraft:crafting_shaped"
+}

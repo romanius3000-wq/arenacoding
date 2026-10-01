@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:glacite",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GGG",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:glacite_pickaxe"
+  },
+  "type": "minecraft:crafting_shaped"
+}

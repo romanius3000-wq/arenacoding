@@ -1,0 +1,33 @@
+{
+  "values": [
+    "mcadvanced:adurite_ore",
+    "mcadvanced:adurite_block",
+    "mcadvanced:sunstone_ore",
+    "mcadvanced:sunstone_block",
+    "mcadvanced:glacite_ore",
+    "mcadvanced:glacite_block",
+    "mcadvanced:titanite_ore",
+    "mcadvanced:titanite_block",
+    "mcadvanced:amber_ore",
+    "mcadvanced:amber_block",
+    "mcadvanced:moonstone_ore",
+    "mcadvanced:moonstone_block",
+    "mcadvanced:jade_ore",
+    "mcadvanced:jade_block",
+    "mcadvanced:mirestone_ore",
+    "mcadvanced:mirestone_block",
+    "mcadvanced:infernite_ore",
+    "mcadvanced:infernite_block",
+    "mcadvanced:aquamarine_ore",
+    "mcadvanced:aquamarine_block",
+    "mcadvanced:nullite_ore",
+    "mcadvanced:nullite_block",
+    "mcadvanced:shroomite_ore",
+    "mcadvanced:shroomite_block",
+    "mcadvanced:hub_stone",
+    "mcadvanced:hub_stone_bricks",
+    "mcadvanced:hub_pillar",
+    "mcadvanced:hub_lantern",
+    "mcadvanced:boss_altar"
+  ]
+}

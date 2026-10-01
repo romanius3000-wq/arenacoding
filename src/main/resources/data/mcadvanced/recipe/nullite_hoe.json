@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:nullite",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "GG ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:nullite_hoe"
+  },
+  "type": "minecraft:crafting_shaped"
+}

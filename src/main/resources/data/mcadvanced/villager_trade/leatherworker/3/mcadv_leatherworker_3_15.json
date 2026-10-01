@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 6.0,
+    "id": "mcadvanced:game_meat"
+  },
+  "max_uses": 10.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 7.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 15.0
+}

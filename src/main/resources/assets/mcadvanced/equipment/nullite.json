@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mcadvanced:nullite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mcadvanced:nullite"
+      }
+    ]
+  }
+}

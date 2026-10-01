@@ -1,0 +1,14 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:emerald",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:world_selector"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

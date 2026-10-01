@@ -1,0 +1,11 @@
+{
+  "generator": {
+    "biome_source": {
+      "biome": "mcadvanced:void_expanse",
+      "type": "minecraft:fixed"
+    },
+    "settings": "minecraft:end",
+    "type": "minecraft:noise"
+  },
+  "type": "minecraft:the_end"
+}

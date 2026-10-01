@@ -1,0 +1,16 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:adurite"
+  },
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:adurite_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

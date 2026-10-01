@@ -1,0 +1,16 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:glacite"
+  },
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:glacite_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

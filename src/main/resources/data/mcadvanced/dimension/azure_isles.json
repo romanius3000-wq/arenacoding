@@ -1,0 +1,11 @@
+{
+  "generator": {
+    "biome_source": {
+      "biome": "mcadvanced:azure_isles",
+      "type": "minecraft:fixed"
+    },
+    "settings": "minecraft:end",
+    "type": "minecraft:noise"
+  },
+  "type": "minecraft:overworld"
+}

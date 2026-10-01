@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcadvanced:item/lion_spawn_egg"
+  }
+}

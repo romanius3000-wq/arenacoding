@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mcadvanced:adurite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mcadvanced:adurite"
+      }
+    ]
+  }
+}

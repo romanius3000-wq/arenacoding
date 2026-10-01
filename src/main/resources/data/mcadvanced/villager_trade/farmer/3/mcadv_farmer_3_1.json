@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1.0,
+    "id": "mcadvanced:mystic_stew"
+  },
+  "max_uses": 8.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 3.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10.0
+}

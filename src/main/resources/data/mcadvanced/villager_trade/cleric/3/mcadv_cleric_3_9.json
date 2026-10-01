@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1.0,
+    "id": "minecraft:ender_pearl"
+  },
+  "max_uses": 6.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2.0,
+    "id": "mcadvanced:moonstone"
+  },
+  "xp": 15.0
+}

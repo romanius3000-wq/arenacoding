@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "S": "mcadvanced:adurite_soul"
+  },
+  "pattern": [
+    "SNS",
+    "SNS",
+    "SNS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:crown_of_worlds"
+  },
+  "type": "minecraft:crafting_shaped"
+}

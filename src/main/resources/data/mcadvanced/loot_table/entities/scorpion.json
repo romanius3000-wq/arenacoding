@@ -1,0 +1,53 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.4,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "functions": [
+            {
+              "count": {
+                "max": 1,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcadvanced:sunstone",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "entries": [
+        {
+          "conditions": [
+            {
+              "chance": 0.6,
+              "condition": "minecraft:random_chance"
+            }
+          ],
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 1
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:string",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "type": "minecraft:entity"
+}

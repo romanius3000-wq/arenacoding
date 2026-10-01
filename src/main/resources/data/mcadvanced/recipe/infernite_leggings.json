@@ -1,0 +1,16 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:infernite"
+  },
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:infernite_leggings"
+  },
+  "type": "minecraft:crafting_shaped"
+}

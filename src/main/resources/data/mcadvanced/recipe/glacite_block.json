@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "G": "mcadvanced:glacite"
+  },
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:glacite_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

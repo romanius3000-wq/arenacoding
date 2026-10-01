@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mcadvanced:infernite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mcadvanced:infernite"
+      }
+    ]
+  }
+}

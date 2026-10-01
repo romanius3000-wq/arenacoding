@@ -1,0 +1,9 @@
+{
+  "category": "food",
+  "cookingtime": 600,
+  "ingredient": "mcadvanced:game_meat",
+  "result": {
+    "id": "mcadvanced:cooked_game_meat"
+  },
+  "type": "minecraft:campfire_cooking"
+}

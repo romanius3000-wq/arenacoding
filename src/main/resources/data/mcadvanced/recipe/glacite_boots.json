@@ -1,0 +1,15 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:glacite"
+  },
+  "pattern": [
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:glacite_boots"
+  },
+  "type": "minecraft:crafting_shaped"
+}

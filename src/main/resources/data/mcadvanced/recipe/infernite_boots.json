@@ -1,0 +1,15 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:infernite"
+  },
+  "pattern": [
+    "G G",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:infernite_boots"
+  },
+  "type": "minecraft:crafting_shaped"
+}

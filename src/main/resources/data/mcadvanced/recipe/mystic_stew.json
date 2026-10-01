@@ -1,0 +1,14 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    "mcadvanced:frost_berry"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:mystic_stew"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

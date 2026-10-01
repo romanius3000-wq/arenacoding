@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "mcadvanced",
+	"version": "${version}",
+	"name": "Minecraft Advanced",
+	"description": "RPG-мод: 12 уникальных миров, боссы, новые мобы, жители с уникальными торгами, новые блоки и предметы.",
+	"authors": [
+		"romanius3000-wq"
+	],
+	"contact": {
+		"sources": "https://github.com/romanius3000-wq/arenacoding"
+	},
+	"license": "MIT",
+	"icon": "assets/mcadvanced/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.arenacoding.mcadvanced.MinecraftAdvanced"
+		],
+		"client": [
+			"com.arenacoding.mcadvanced.client.MinecraftAdvancedClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

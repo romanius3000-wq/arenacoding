@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcadvanced:item/spore_mother_spawn_egg"
+  }
+}

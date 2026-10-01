@@ -1,0 +1,11 @@
+{
+  "generator": {
+    "biome_source": {
+      "biome": "mcadvanced:volcanic_wastes",
+      "type": "minecraft:fixed"
+    },
+    "settings": "minecraft:nether",
+    "type": "minecraft:noise"
+  },
+  "type": "minecraft:the_nether"
+}

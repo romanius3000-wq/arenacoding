@@ -1,0 +1,17 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:infernite",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    " G ",
+    " G ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:infernite_sword"
+  },
+  "type": "minecraft:crafting_shaped"
+}

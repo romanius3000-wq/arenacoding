@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1.0,
+    "id": "mcadvanced:glacite_sword"
+  },
+  "max_uses": 4.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 18.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 15.0
+}

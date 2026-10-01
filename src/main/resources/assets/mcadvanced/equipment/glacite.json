@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mcadvanced:glacite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mcadvanced:glacite"
+      }
+    ]
+  }
+}

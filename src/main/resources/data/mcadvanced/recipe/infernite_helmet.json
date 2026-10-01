@@ -1,0 +1,15 @@
+{
+  "category": "equipment",
+  "key": {
+    "G": "mcadvanced:infernite"
+  },
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:infernite_helmet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

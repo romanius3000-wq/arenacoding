@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "mcadvanced:nullite_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcadvanced:nullite"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

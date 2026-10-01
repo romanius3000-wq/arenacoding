@@ -1,0 +1,16 @@
+{
+  "category": "building",
+  "key": {
+    "G": "mcadvanced:nullite"
+  },
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:nullite_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

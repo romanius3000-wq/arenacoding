@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mcadvanced:block/boss_altar_top",
+    "side": "mcadvanced:block/boss_altar"
+  }
+}

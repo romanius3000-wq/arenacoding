@@ -1,0 +1,14 @@
+{
+  "category": "misc",
+  "ingredients": [
+    "minecraft:compass",
+    "minecraft:diamond",
+    "minecraft:gold_ingot",
+    "minecraft:gold_ingot"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcadvanced:hub_compass"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

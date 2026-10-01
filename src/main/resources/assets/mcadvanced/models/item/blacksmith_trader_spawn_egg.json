@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcadvanced:item/blacksmith_trader_spawn_egg"
+  }
+}
